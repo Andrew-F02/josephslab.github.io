@@ -49,6 +49,17 @@ Pronouns: she/they
 
 <br><br><br><br><br><br><br><br>
 
+![Andrew Fairclough]({{ site.url }}{{ site.baseurl }}/images/teampic/andrew.png){: style="width: 250px; float: left; border: 10px"}
+### Andrew Fairclough (Graduate Student)
+Andrew graduated with a B.S. in Ecology and Environmental Biology from CSU-Dominguez Hills. Before starting in the lab he worked as a research technician at UC Berkeley, researching rapid climate adaptation within natural plant populations and multiple model plant species. He is interested in studying how competition drives selection on life history traits in plants, and the genetic architecture that underlies those traits. Outside of lab, Andrew enjoys sketching, aquascaping, and bird-watching.
+<br>
+Email: fairclo7@msu.edu <br> 
+Pronouns: he/him
+<br>
+Fun Fact: Also a huge paleontology nerd. 
+
+<br><br><br><br><br><br><br><br>
+
 ![Husain I. Agha]({{ site.url }}{{ site.baseurl }}/images/teampic/husain.jpg){: style="width: 250px; float: left; border: 10px"}
 ### Husain I. Agha (Postdoc)
 Husain received his PhD in Plant and Microbial Biology from the Univesity of Minnesota in 2023 where he studied genotype-by-environment interaction in wild and domesticated potato. Currently, he is a ghost-doc working remotely from the University of Minnesota campus. Husain's postdoc research will broadly focus on phenotypic plasticity and its affect on quantitative traits. In his free time, Husain plays chess, listens to podcasts, and cycling. 
